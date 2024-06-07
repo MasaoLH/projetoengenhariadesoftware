@@ -1,4 +1,4 @@
-# Alunos:
+# Alunos
 
 Luan Masao Hirahata\
 Antônio Carlos Sena\
