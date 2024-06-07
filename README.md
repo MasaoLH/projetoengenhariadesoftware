@@ -1,5 +1,5 @@
-Alunos:
+# Alunos:
 
 Luan Masao Hirahata\
 Antônio Carlos Sena\
-Bruno Gabriel Figueiredo da Paz Assis\
+Bruno Gabriel Figueiredo da Paz Assis
