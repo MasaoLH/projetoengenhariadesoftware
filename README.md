@@ -1,3 +1,5 @@
+Estão anexados o projeto (PDF) e arquivos utilizados para desenvolvê-lo (Facilitar a visualização)
+
 # Alunos
 
 Luan Masao Hirahata\
